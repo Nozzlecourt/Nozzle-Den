@@ -1,0 +1,5 @@
+{
+  "name": "Rugby Match Countdown & AI Analysis",
+  "description": "An application that displays a countdown to the next rugby match, shows league standings, and provides an AI-powered match analysis using the Gemini API.",
+  "requestFramePermissions": []
+}
